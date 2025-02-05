@@ -28,7 +28,7 @@ Building this website was an amazing journey! 🤩
 - Gained confidence in my ability to present myself through web design. 💪
 
 ## 🔗 Live Demo
-Check out the live version of the website here: [Live Demo](https://s4urav07.github.io/First_portfolio/) 🌍
+Check out the live version of the website here: [Live Demo](https://s4urav07.github.io/First_Portfolio/) 🌍
 
 ## 📧 Contact Me
 If you’d like to connect, feel free to reach out via email or social media!
