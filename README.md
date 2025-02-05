@@ -28,12 +28,12 @@ Building this website was an amazing journey! 🤩
 - Gained confidence in my ability to present myself through web design. 💪
 
 ## 🔗 Live Demo
-Check out the live version of the website here: [Live Demo](https://s4urav07.github.io/First_Portfolio/) 🌍
+Check out the live version of the website here: [Live Demo](https://s4urav07.github.io/First_Portfolio/index.html) 🌍
 
 ## 📧 Contact Me
 If you’d like to connect, feel free to reach out via email or social media!
 
-📩 **Email:** sauravstha279@icloud.com  
+📩 **Email:** sauravstha279@icloud.com 
 🔗 **Facebook:** [Profile](https://m.facebook.com/profile.php/?id=100009113029171)  
 🐦 **Twitter/X:** [Profile](https://twitter.com/Saurav99414136)  
 📸 **Instagram:** [Profile](https://www.instagram.com/sauravstha279/?igshid=MmIzYWVlNDQ5Yg%3D%3D)  
